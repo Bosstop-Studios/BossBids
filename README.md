@@ -1,2 +1,2 @@
 # BossBids
- Discord Bot for Bdding
+ Discord Bot for Bidding
