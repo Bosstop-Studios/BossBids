@@ -1,0 +1,27 @@
+{
+  "name": "bossbids",
+  "version": "1.0.0",
+  "description": "Discord Bot for Bidding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bosstop-Studios/BossBids.git"
+  },
+  "author": "Sir Blob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bosstop-Studios/BossBids/issues"
+  },
+  "homepage": "https://github.com/Bosstop-Studios/BossBids#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.9.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "colors": "^1.4.0",
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3"
+  }
+}
